@@ -17,9 +17,9 @@
 
 ![image](3.png)
 
-## 4- Una vez completado. seleccionamos branch, y creamos un nuevo branch con el nombre gh-pages.
+## 4- Una vez completado, seleccionamos branch, y creamos un nuevo branch con el nombre gh-pages.
 
 ![image](4.png)
 ![image](5.png)
 
-## 5- 
+## 5- A continuación, 
