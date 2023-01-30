@@ -1,6 +1,6 @@
 # Explicacion tarea aplicacion web
 
-### [Mi pagina web en github](https://gabrielberngom.github.io/aplicacion-web/)
+### [Mi pagina web en Github](https://gabrielberngom.github.io/aplicacion-web/)
 
 
 ### La realizacion es simple, lo explicaré mediante pasos:
@@ -27,6 +27,6 @@
 ![image](6.png)
 ![image](7.png)
 
-##6- Para terminar, seleccionamos pages y en ella a parece la dirección de nuestra pagina.
+## 6- Para terminar, seleccionamos pages y en ella a parece la dirección de nuestra pagina.
 
 ![image](8.png)
