@@ -22,5 +22,6 @@
 ![image](4.png)
 ![image](5.png)
 
-## 5- A continuación, en código, seleccionamos setings, en setings seleccionamos branches y enn default branch lo cambiamos por gh-pages, actualizamos.
+## 5- A continuación, en código, seleccionamos setings, en setings seleccionamos branches y en default branch lo cambiamos por gh-pages, actualizamos.
 
+![image](6.png)
